@@ -9,5 +9,6 @@ public class Student {
         System.out.println("Task 3 yapıldı");
 
         System.out.println("Task 4 yapıldı");
+        System.out.println("Merhaba ");
     }
 }
